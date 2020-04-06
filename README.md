@@ -1,5 +1,6 @@
 ### Date created
 This project and README were created on April 5th, 2020
+Weather: Overcast and rainy
 
 ### Project Title
 Udacity Project - Post your Work on GitHub
@@ -10,6 +11,7 @@ Step 2: Improve Documentation
 Step 3: Refactor Code
 Step 4: Merge Branches
 Step 5: Submit Project
+Step 6: Profit!
 
 ### Files used
 Solution.py
