@@ -1,15 +1,22 @@
 ### Date created
-Include the date you created this project and README file.
+This project and README were created on April 5th, 2020
 
 ### Project Title
-Replace the Project Title
+Udacity Project - Post your Work on GitHub
 
 ### Description
-Describe what your project is about and what it does
+Step 1: Set Up Your Repository
+Step 2: Improve Documentation
+Step 3: Refactor Code
+Step 4: Merge Branches
+Step 5: Submit Project
 
 ### Files used
-Include the files used
+Solution.py
+bikeshare_2.py
+.gitignore
+README.md
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Just Udacity!
 
