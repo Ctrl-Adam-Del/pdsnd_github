@@ -20,13 +20,13 @@ def get_filters():
     city = ['chicago', 'new york city', 'washington']
     input_city = input("Would you like to look at data from Chicago, New York City, or Washington? ").lower()
     while input_city not in city:
-        print("Whoops!  Something went wrong.  Please check your spelling and choose from one of the four available options! ", end='')
+        print("Sorry bro!  Something went wrong.  Please check your spelling and choose from one of the four available options! ", end='')
         input_city = input("Try again? ")
     print('Mmm.  I love the nachos they have in {}!'.format(input_city))
 
     # TO DO: get user input for month (all, january, february, ... , june)
     month = ['january', 'february', 'march', 'april', 'may', 'june', 'all']
-    input_month = input("Alright, which month would you like to select? Please choose between January through June, or All: ").lower()
+    input_month = input("Aiight, which month would you like to select? Please choose between January through June, or All: ").lower()
     while input_month not in month:
         print("Whoops!  I didn't recognize that month. ", end='')
         input_month = input("Try again? ")
@@ -36,7 +36,7 @@ def get_filters():
     day = ['sunday', 'monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday', 'all']
     input_day = input("Okay, and what day of the week would you like to choose?  Please enter the full day, no abbreviations, or all: ").lower()
     while input_day not in day:
-        print("Hmm, I didn\'t quite get that. ", end= '')
+        print("Nope, I didn\'t quite get that. ", end= '')
         input_day = input("Try again? ")
     print('I had a feeling you were going to pick {}.'.format(input_day))
 
